@@ -1,0 +1,17 @@
+{
+  "name": "scratch-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Louis F Medina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "scratch-blocks": "0.1.0-prerelease.1537975589",
+    "scratch-render": "git+https://github.com/LLK/scratch-render.git",
+    "scratch-vm": "^0.2.0-prerelease.20180927173852"
+  }
+}
